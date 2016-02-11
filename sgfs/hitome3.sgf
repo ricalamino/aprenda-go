@@ -1,0 +1,8 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[9]KM[0.00]
+PW[Branco]PB[Negro]
+
+AB[cg][dg][fg][eh]AW[fh][eg][ef]
+
+C[Vez das pretas.](;B[gh]C[correto - você pegou F2 ])(;B[dh];W[gg]C[errado - F3 foi capturada])(;B[di];W[gg]C[errado - F3 foi capturada])(;B[ei];W[gg]C[errado - F3 foi capturada])(;B[ch];W[gg]C[errado - F3 foi capturada])(;B[ci];W[gg]C[errado - F3 foi capturada])(;B[fi];W[gh]C[errado - E3 escapou])
+)

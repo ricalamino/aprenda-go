@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<data>
+  <name>corner2</name>
+  <size>9</size>
+  <init>B[fh]B[gh]W[gf]W[gg]W[he]B[hf]B[hg]W[hh]</init>
+  <sequence>
+      <play pos="ih" res="hi" message="Brancas escapam@black">
+        <play pos="gi" res="if">
+          <play pos="ii" message="correto@red">
+          </play>
+          <play pos="ig" res="ii" message="errado@blue">
+          </play>
+          <play pos="zz" res="ig" message="errado@blue">
+          </play>
+        </play>
+        <play pos="ii" res="ig" message="errado@blue">
+        </play>
+        <play pos="if" res="ie">
+          <play pos="ig" res="ii" message="errado@blue">
+          </play>
+          <play pos="zz" res="ig" message="errado@blue">
+          </play>
+        </play>
+        <play pos="ig" res="ie">
+          <play pos="gi" res="if">
+            <play pos="ii" message="correto@red">
+            </play>
+            <play pos="zz" res="ii" message="errado@blue">
+            </play>
+          </play>
+          <play pos="ii" res="if" message="errado@blue">
+          </play>
+          <play pos="if" res="ii" message="errado@blue">
+          </play>
+          <play pos="zz" res="if" message="errado-4 pretas estão mortas@blue">
+          </play>
+        </play>
+        <play pos="ie" res="ig">
+          <play pos="if" res="id">
+            <play pos="ig" res="ii" message="errado@blue">
+            </play>
+            <play pos="zz" res="ig" message="errado@blue">
+            </play>
+          </play>
+          <play pos="zz" res="if" message="errado@blue">
+          </play>
+        </play>
+        <play pos="zz" res="ig" message="errado@blue">
+        </play>
+      </play>
+      <play pos="hi" res="ih" message="Brancas escapam@black">
+        <play pos="ig" res="if" message="errado@blue">
+        </play>
+        <play pos="ii" res="gi" message="errado@blue">
+        </play>
+        <play pos="if" res="ie" message="errado-3 pretas mortas@blue">
+        </play>
+        <play pos="ie" res="ig">
+          <play pos="if" res="id" message="errado@blue">
+          </play>
+          <play pos="zz" res="if" message="errado@blue">
+          </play>
+        </play>
+        <play pos="zz" res="if" message="errado-2 pretas mortas@blue">
+        </play>
+      </play>
+      <play pos="ie" res="ig">
+        <play pos="if" res="id" message="errado@blue">
+        </play>
+        <play pos="zz" res="if" message="errado@blue">
+        </play>
+      </play>
+      <play pos="ig" res="ih" message="errado-3 pretas não podem escapar@blue">
+      </play>
+      <play pos="if" res="ie">
+        <play pos="ig" res="ih" message="errado@blue">
+        </play>
+        <play pos="zz" res="ig" message="errado@blue">
+        </play>
+      </play>
+      <play pos="zz" res="ig" message="errado-2 pretas não podem escapar@blue">
+      </play>
+  </sequence>
+</data>

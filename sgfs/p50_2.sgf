@@ -1,0 +1,12 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[9]KM[0.00]
+PW[Branco]PB[Negro]AW[dc][dd]AB[db][cc][ec][cd][de]C[Vez das pretas. 
+Duas pedras brancas estão em atari. 
+Capture as duas com um movimento!]
+(;B[ed]C[Muito bem!
+Correct])
+(;B[fd]C[Errado!])
+(;B[ee]C[Errado!])
+(;B[eb]C[Errado!])
+(;B[ce]C[Errado!])
+(;B[cb]C[Errado!]))

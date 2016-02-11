@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<data>
+  <name>chika2</name>
+  <size>9</size>
+  <init>B[bf]W[bg]W[bh]W[cf]W[df]B[cg]B[dg]B[dh]W[ch]W[di]B[ee]B[ef]W[eg]W[gf]W[cd]</init>
+  <sequence>
+      <play pos="eh" res="fg">
+        <play pos="ce" res="be">
+          <play pos="de" message="correto@red">
+          </play>
+          <play pos="af" res="de" message="errado-as pretas estão dispersando@blue">
+          </play>
+          <play pos="zz" res="af" message="errado@blue">
+          </play>
+        </play>
+        <play pos="de" res="ce" message="errado-as pretas estão dispersando@blue">
+        </play>
+        <play pos="be" res="ce" message="errado-as pretas estão dispersando@blue">
+        </play>
+        <play pos="af" res="be" message="errado-as pretas em baixo estão sozinhas@blue">
+        </play>
+        <play pos="ci" res="be">
+          <play pos="ei" res="fh" message="errado-as pretas em baixo estão sozinhas@blue">
+          </play>
+          <play pos="bi" res="ai" message="errado-as pretas em baixo estão sozinhas@blue">
+          </play>
+          <play pos="fh" res="gh" message="errado-as pretas em baixo estão sozinhas@blue">
+          </play>
+          <play pos="gh" res="fh" message="errado-as pretas em baixo estão sozinhas@blue">
+          </play>
+          <play pos="zz" res="bi" message="errado-as pretas em baixo estão sozinhas@blue">
+          </play>
+        </play>
+        <play pos="zz" res="be" message="errado-as pretas em baixo estão sozinhas@blue">
+        </play>
+      </play>
+      <play pos="zz" res="eh" message="errado@blue">
+      </play>
+  </sequence>
+</data>

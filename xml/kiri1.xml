@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<data>
+  <name>kiri1</name>
+  <size>9</size>
+  <init>B[cf]B[cg]B[dc]B[dd]B[de]W[df]W[dg]W[ec]W[ed]W[ee]</init>
+  <sequence>
+      <play pos="ef" res="eg">
+        <play pos="ff" message="correto - brancas foram cortadas@red">
+        </play>
+        <play pos="zz" res="ff" message="errado@blue">
+        </play>
+      </play>
+      <play pos="zz" res="ef" message="errado - brancas estão conectadas@blue">
+      </play>
+  </sequence>
+</data>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<data>
+  <name>48K-1-3shi</name>
+  <size>9</size>
+  <init>B[cd]B[ce]B[cf]B[dc]W[dd]W[de]W[df]B[dg]B[ef]W[fd]W[ff]</init>
+  <sequence>
+      <play pos="ed" res="ee">
+        <play pos="fe" message="correto@red">
+        </play>
+        <play pos="ec" res="eg" message="errado@blue">
+        </play>
+        <play pos="zz" res="ec" message="errado@blue">
+        </play>
+      </play>
+      <play pos="zz" res="ed" message="errado@blue">
+      </play>
+  </sequence>
+</data>

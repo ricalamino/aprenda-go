@@ -1,0 +1,31 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[9]KM[0.00]
+PW[Branco]PB[Negro]AW[cf]AB[be][bf][cg]C[Vez das pretas.]
+(;B[df]
+;W[ce]C[As brancas escapam...]
+;B[cd]
+;W[de]
+;B[ee]
+;W[dd]
+;B[dc]
+;W[ed]
+;B[fd]
+;W[ec]C[O que irá acontecer?]
+;B[eb]
+;W[fc]
+;B[gc]
+;W[fb]
+;B[fa]
+;W[gb]
+;B[hb]
+;W[ef]C[As brancas reagem...]
+;B[ga]C[Muito bem!
+Correct])
+(;B[ef]
+;W[df]C[Errado!])
+(;B[de]
+;W[df]C[Errado!])
+(;B[ce]
+;W[df]C[Errado!])
+(;B[bg]
+;W[df]C[Errado!]))

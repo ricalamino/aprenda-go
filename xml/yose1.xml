@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<data>
+  <name>yose1</name>
+  <size>9</size>
+  <init>B[bd]B[cb]B[cc]B[cg]W[db]W[dc]B[dd]W[ec]B[ee]B[eg]W[fc]G[fe]W[gd]W[ge]W[gg]W[gh]</init>
+  <sequence>
+      <play pos="fh" message="correto-Pretas ganharam território em baixo@red">
+      </play>
+      <play pos="eh" res="fh" message="errado-Seja mais agressivo!@blue">
+      </play>
+      <play pos="ei" res="fi" message="correto-mas não o melhor@red">
+      </play>
+      <play pos="fi" res="gi" message="correto-mas não o melhor@red">
+      </play>
+      <play pos="fg" res="ei" message="errado@blue">
+      </play>
+      <play pos="gf" res="ff" message="errado@blue">
+      </play>
+      <play pos="dh" res="fh" message="errado@blue">
+      </play>
+      <play pos="zz" res="eh" message="errado-Você perdeu o canto inferior@blue">
+      </play>
+  </sequence>
+</data>

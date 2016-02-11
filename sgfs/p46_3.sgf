@@ -1,0 +1,42 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[9]KM[0.00]
+PW[Branco]PB[Negro]AW[eb][dc][bd][de][ee]AB[fd][ce][fe][df][ef]C[Vez das pretas.
+Aqui, você não consegue capturar as brancas com um movimento.]
+(;B[dd]
+;W[ed]
+;B[ec]C[Muito bem!
+Correct])
+(;B[ed]
+;W[dd]C[Errado!])
+(;B[cd]
+;W[dd]C[Errado!])
+(;B[cf]
+;W[dd]C[Errado!])
+(;B[ff]
+;W[dd]C[Errado!])
+(;B[ec]
+;W[dd]C[Errado!])
+(;B[db]
+;W[dd]C[Errado!])
+(;B[cc]
+;W[dd]C[Errado!])
+(;B[be]
+;W[dd]C[Errado!])
+(;B[bc]
+;W[dd]C[Errado!])
+(;B[fb]
+;W[dd]C[Errado!])
+(;B[ad]
+;W[dd]C[Errado!])
+(;B[fc]
+;W[dd]C[Errado!])
+(;B[fa]
+;W[dd]C[Errado!])
+(;B[ea]
+;W[dd]C[Errado!])
+(;B[da]
+;W[dd]C[Errado!])
+(;B[cb]
+;W[dd]C[Errado!])
+(;B[bb]
+;W[dd]C[Errado!]))

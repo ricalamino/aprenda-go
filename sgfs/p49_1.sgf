@@ -1,0 +1,23 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[9]KM[0.00]
+PW[Branco]PB[Negro]AW[da][ea][ga][gb]AB[ca][db][eb]C[Vez das pretas.]
+(;B[fa]C[Muito bem!
+Correct])
+(;B[fb]
+;W[fa]C[Errado, as brancas estão todas conectadas!])
+(;B[cb]
+;W[fa]C[Errado, as brancas estão todas conectadas!])
+(;B[gc]
+;W[fa]C[Errado, as brancas estão todas conectadas!])
+(;B[ba]
+;W[fa]C[Errado, as brancas estão todas conectadas!])
+(;B[hb]
+;W[fa]C[Errado, as brancas estão todas conectadas!])
+(;B[ha]
+;W[fa]C[Errado, as brancas estão todas conectadas!])
+(;B[fc]
+;W[fa]C[Errado, as brancas estão todas conectadas!])
+(;B[ec]
+;W[fa]C[Errado, as brancas estão todas conectadas!])
+(;B[dc]
+;W[fa]C[Errado, as brancas estão todas conectadas!]))

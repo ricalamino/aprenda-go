@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<data>
+  <name>begin1</name>
+  <size>13</size>
+  <init></init>
+  <display_numbers>true</display_numbers>
+  <moves>
+    <play pos="cc" message="" ></play>
+    <play pos="kk" message="" ></play>
+    <play pos="dj" message="" ></play>
+    <play pos="kd" message="">" ></play>
+  </moves>
+</data>

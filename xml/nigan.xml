@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<data>
+  <name>nigan</name>
+  <size>9</size>
+  <init>W[bd]W[be]W[bf]W[bg]W[cb]W[cc]B[cd]B[ce]B[cf]B[cg]W[ch]W[db]W[eb]W[fb]W[gb]W[hb]W[ib]W[ic]W[id]W[ie]W[ig]W[dh]W[eh]W[fh]W[gh]W[hh]B[dc]B[ec]B[fc]B[gc]B[hc]B[dg]B[eg]B[fg]B[gg]B[gf]B[hd]B[he]B[hf]W[dd]W[de]W[df]W[ed]W[fd]W[gd]W[ge]W[ef]W[ff]</init>
+  <sequence>
+      <play pos="ee" res="fe">
+        <play pos="ee" message="correto@red">
+        </play>
+        <play pos="hg" res="if" message="errado@blue">
+        </play>
+        <play pos="if" res="hg" message="errado@blue">
+        </play>
+        <play pos="zz" res="if">
+          <play pos="ee" message="correto@red">
+          </play>
+          <play pos="zz" res="hg" message="errado@blue">
+          </play>
+        </play>
+      </play>
+      <play pos="fe" res="ee">
+        <play pos="fe" message="correto@red">
+        </play>
+        <play pos="hg" res="if" message="errado@blue">
+        </play>
+        <play pos="if" res="hg" message="errado@blue">
+        </play>
+        <play pos="zz" res="if">
+          <play pos="fe" message="correto@red">
+          </play>
+          <play pos="zz" res="hg" message="errado@blue">
+          </play>
+        </play>
+      </play>
+      <play pos="hg" res="if" message="errado@blue">
+      </play>
+      <play pos="if" res="hg" message="errado@blue">
+      </play>
+      <play pos="zz" res="hg">
+        <play pos="ee" res="if" message="errado@blue">
+        </play>
+        <play pos="fe" res="if" message="errado@blue">
+        </play>
+        <play pos="zz" res="if" message="errado@blue">
+        </play>
+      </play>
+  </sequence>
+</data>

@@ -1,0 +1,80 @@
+﻿<html>
+	<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.0/jquery.min.js"></script>
+<script src="glift_1_0_6.min.js" ></script>
+
+
+
+
+		<link rel=stylesheet href="style.css" type="text/css">
+		<title>Aproximando o fim do jogo</title>
+	</head>
+	<body>
+				
+		<h1>Aproximando o fim do jogo</h1>
+		<p>Quando o jogo vai chegando ao fim, e ambos os lados já têm os seus territórios definidos, tudo o que você deve fazer é delimitar as bordas do seu território claramente.
+		Nesse ponto, você deve tentar empurrar a borda para dentro do território inimigo, aumentando o seu território o máximo possível e ao mesmo tempo reduzindo o do adversário.</p>
+		<p>
+			As pretas ocupam o lado esquerdo e as brancas controlam o lado direito.
+			Entretanto, ainda há alguns lugares onde os limites não estão claros.
+			Onde você pode jogar que possibilitará maior lucro de território?
+		</p>
+		
+  <div id="yose1" style="height:500px; width:100%; position:relative;"></div>
+		<p>As pretas têm o lado esquerdo e as brancas o lado direito. O jogo está quase no fim.</p>
+		<p>Mas seja cuidadoso até o jogo acabar de verdade!</p>
+		<p> Brancas acabaram de jogar em <strong>D1</strong>.</p>
+		<p>  Se você ignorar, seu precioso território será invadido.</p>
+		
+ <div id="yose2" style="height:500px; width:100%; position:relative;"></div>
+		<a href="hitome.html"><img src="images/next.gif">Próximo</a>
+		<a href="index.html"><img src="images/toc.gif">Conteúdo</a>
+		<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+		</script>
+		<script type="text/javascript">
+			_uacct = "UA-870456-2";
+			urchinTracker();
+		</script>
+
+      <script type="text/javascript">
+  $(document).ready(function(){ 
+
+
+glift.create({
+divId: 'yose1',
+sgf: 'sgfs/yose1.sgf',
+sgfDefaults: {
+    widgetType: 'STANDARD_PROBLEM'
+  },
+});
+
+glift.create({
+divId: 'yose2',
+sgf: 'sgfs/yose2.sgf',
+sgfDefaults: {
+    widgetType: 'STANDARD_PROBLEM'
+  },
+  display: {
+    drawBoardCoords: true
+  }
+});
+
+
+  });
+
+    </script>
+    <script type="text/javascript">
+var _urq = _urq || [];
+_urq.push(['initSite', '8dfa982d-d6e9-44a4-a4c2-1c555f1591a2']);
+(function() {
+var ur = document.createElement('script'); ur.type = 'text/javascript'; ur.async = true;
+ur.src = ('https:' == document.location.protocol ? 'https://cdn.userreport.com/userreport.js' : 'http://cdn.userreport.com/userreport.js');
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ur, s);
+})();
+</script>
+  
+	</body>
+</html>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<data>
+  <name>43K-1-semeai</name>
+  <size>9</size>
+  <init>B[ca]B[cb]B[cc]B[dd]B[ed]W[ea]W[eb]W[ec]W[fd]W[gd]B[fa]B[fb]B[fc]W[ha]W[hb]W[hc]</init>
+  <sequence>
+      <play pos="da" res="gc">
+        <play pos="db" res="gb">
+          <play pos="dc" message="correto@red">
+          </play>
+          <play pos="zz" res="ga" message="errado@blue">
+          </play>
+        </play>
+        <play pos="dc" res="gb">
+          <play pos="db" message="correto@red">
+          </play>
+          <play pos="zz" res="ga" message="errado@blue">
+          </play>
+        </play>
+        <play pos="gb" res="ga" message="errado@blue">
+        </play>
+        <play pos="zz" res="gb" message="errado@blue">
+        </play>
+      </play>
+      <play pos="db" res="gc">
+        <play pos="da" res="gb">
+          <play pos="dc" message="correto@red">
+          </play>
+          <play pos="zz" res="ga" message="errado@blue">
+          </play>
+        </play>
+        <play pos="dc" res="gb">
+          <play pos="da" message="correto@red">
+          </play>
+          <play pos="zz" res="ga" message="errado@blue">
+          </play>
+        </play>
+        <play pos="gb" res="ga" message="errado@blue">
+        </play>
+        <play pos="zz" res="gb" message="errado@blue">
+        </play>
+      </play>
+      <play pos="dc" res="gc">
+        <play pos="da" res="gb">
+          <play pos="db" message="correto@red">
+          </play>
+          <play pos="zz" res="ga" message="errado@blue">
+          </play>
+        </play>
+        <play pos="db" res="gb">
+          <play pos="da" message="correto@red">
+          </play>
+          <play pos="zz" res="ga" message="errado@blue">
+          </play>
+        </play>
+        <play pos="gb" res="ga" message="errado@blue">
+        </play>
+        <play pos="zz" res="gb" message="errado@blue">
+        </play>
+      </play>
+      <play pos="gc" res="gb" message="errado@blue">
+      </play>
+      <play pos="zz" res="gc" message="errado@blue">
+      </play>
+  </sequence>
+</data>

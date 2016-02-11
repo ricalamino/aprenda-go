@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<data>
+  <name>utte-2</name>
+  <size>9</size>
+  <init>W[cd]W[dd]W[cg]W[dg]B[de]B[df]B[ec]B[ed]W[ee]W[ef]B[eg]W[fd]B[fg]W[ge]B[gf]</init>
+  <sequence>
+      <play pos="ff" res="fe" message="errado@blue">
+      </play>
+      <play pos="fe" res="ff">
+        <play pos="fe" message="correto@red">
+        </play>
+        <play pos="zz" res="fe" message="errado@blue">
+        </play>
+      </play>
+      <play pos="zz" res="fe" message="errado@blue">
+      </play>
+  </sequence>
+</data>

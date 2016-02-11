@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<data>
+  <name>46K-4-kake</name>
+  <size>9</size>
+  <init>W[bc]B[cd]B[ce]W[cf]W[cg]W[de]B[df]B[ef]W[eg]W[fc]</init>
+  <sequence>
+      <play pos="ed" res="dd">
+        <play pos="dc" res="ee">
+          <play pos="fe" message="correto@red">
+          </play>
+          <play pos="zz" res="fe" message="errado@blue">
+          </play>
+        </play>
+        <play pos="zz" res="dc" message="errado@blue">
+        </play>
+      </play>
+      <play pos="dd" res="ee">
+        <play pos="ed" res="fe" message="errado@blue">
+        </play>
+        <play pos="fe" res="ed" message="errado@blue">
+        </play>
+        <play pos="zz" res="fe" message="errado@blue">
+        </play>
+      </play>
+      <play pos="ee" res="dd">
+        <play pos="ed" res="dc" message="errado@blue">
+        </play>
+        <play pos="dc" res="ed" message="errado@blue">
+        </play>
+        <play pos="zz" res="dc" message="errado@blue">
+        </play>
+      </play>
+      <play pos="ec" res="ee">
+        <play pos="fe" res="ff" message="errado@blue">
+        </play>
+        <play pos="ff" res="fe" message="errado@blue">
+        </play>
+        <play pos="zz" res="ff" message="errado@blue">
+        </play>
+      </play>
+      <play pos="fd" res="ee">
+        <play pos="fe" res="ff" message="errado@blue">
+        </play>
+        <play pos="ff" res="fe" message="errado@blue">
+        </play>
+        <play pos="zz" res="ff" message="errado@blue">
+        </play>
+      </play>
+      <play pos="zz" res="ed" message="errado@blue">
+      </play>
+  </sequence>
+</data>

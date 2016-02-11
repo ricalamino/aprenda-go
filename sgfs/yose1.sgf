@@ -1,0 +1,8 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[9]KM[0.00]
+PW[Branco]PB[Negro]
+
+AB[bd][cb][cc][cg][dd][ee][eg]AW[fc][gd][ge][gg][gh][db][dc][ec]
+
+C[Vez das pretas.](;B[fh]C[correto-Pretas ganharam território em baixo])(;B[eh];W[fh]C[errado-Seja mais agressivo!])(;B[ei];W[fi]C[correto-mas não o melhor])(;B[fi];W[gi]C[correto-mas não o melhor])(;B[fg];W[ei]C[errado])(;B[gf];W[ff]C[errado])(;B[dh];W[fh]C[errado])
+)

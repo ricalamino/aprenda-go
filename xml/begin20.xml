@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<data>
+  <name>begin20</name>
+  <size>13</size>
+  <init>B[cc]W[kk]B[dj]W[kd]</init>
+  <display_numbers>true</display_numbers>
+  <moves>
+    <play pos="fk" message="" ></play>
+    <play pos="ki" message="" ></play>
+    <play pos="id" message="" ></play>
+    <play pos="ic" message="" ></play>
+    <play pos="hc" message="" ></play>
+    <play pos="jc" message="" ></play>
+    <play pos="gd" message="" ></play>
+    <play pos="cf" message="" ></play>
+    <play pos="ch" message="" ></play>
+    <play pos="dc" message="">" ></play>
+  </moves>
+</data>

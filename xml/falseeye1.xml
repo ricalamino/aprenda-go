@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<data>
+  <name>falseeye1</name>
+  <size>9</size>
+  <init>W[cd]W[ce]W[cf]W[dc]B[dd]B[de]B[df]W[dg]W[dh]W[ec]B[ed]B[ef]B[eg]W[eh]W[fc]B[fe]B[fg]W[fh]W[gd]W[ge]B[gf]W[hf]W[hg]</init>
+  <sequence>
+      <play pos="gg" message="correto - você tem 2 olhos claramente@red">
+      </play>
+      <play pos="fd" res="gg" message="errado - F4 se tornou um falso olho@blue">
+      </play>
+      <play pos="ee" res="gg" message="errado - Não preencha seu olho@blue">
+      </play>
+      <play pos="ff" res="gg" message="errado - Não preencha seu olho@blue">
+      </play>
+      <play pos="zz" res="gg" message="errado - F4 se tornou um falso olho@blue">
+      </play>
+  </sequence>
+</data>

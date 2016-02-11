@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<data>
+  <name>46K-2</name>
+  <size>9</size>
+  <init>W[ab]B[ac]W[ad]W[cd]W[dd]B[bc]B[cc]B[dc]W[ec]W[ba]W[ca]W[da]W[bb]W[cb]W[db]B[ea]B[eb]</init>
+  <sequence>
+      <play pos="aa" message="correto@red">
+      </play>
+      <play pos="bd" res="be" message="errado@blue">
+      </play>
+      <play pos="zz" res="bd" message="errado@blue">
+      </play>
+  </sequence>
+</data>

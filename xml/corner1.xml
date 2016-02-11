@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<data>
+  <name>corner1</name>
+  <size>9</size>
+  <init>W[bf]W[cf]B[df]B[bg]B[cg]W[dg]B[eg]W[ch]W[dh]B[eh]</init>
+  <sequence>
+      <play pos="bh" res="bi">
+        <play pos="di" res="ag">
+          <play pos="ci" message="correto@red">
+          </play>
+          <play pos="ah" res="ai" message="errado@blue">
+          </play>
+          <play pos="zz" res="ah" message="errado@blue">
+          </play>
+        </play>
+        <play pos="ci" res="di">
+          <play pos="ei" res="ag">
+            <play pos="ci" message="correto@red">
+            </play>
+            <play pos="ah" res="ai" message="errado@blue">
+            </play>
+            <play pos="zz" res="ah" message="errado@blue">
+            </play>
+          </play>
+          <play pos="ai" res="ah" message="errado@blue">
+          </play>
+          <play pos="ah" res="af">
+            <play pos="ei" res="ag">
+              <play pos="ci" message="correto@red">
+              </play>
+              <play pos="zz" res="ai" message="errado@blue">
+              </play>
+            </play>
+            <play pos="ag" res="ai" message="errado">
+            </play>
+            <play pos="zz" res="ag" message="errado">
+            </play>
+          </play>
+          <play pos="ag" res="af" message="errado-4 pretas não podem escapar@blue">
+          </play>
+          <play pos="af" res="ah">
+            <play pos="ag" res="ae" message="errado@blue">
+            </play>
+            <play pos="zz" res="ag" message="errado@blue">
+            </play>
+          </play>
+          <play pos="zz" res="ag" message="errado@blue">
+          </play>
+        </play>
+        <play pos="ai" res="ah" message="errado@blue">
+        </play>
+        <play pos="ah" res="af">
+          <play pos="di" res="ag">
+            <play pos="ci" message="correto@red">
+            </play>
+            <play pos="ai" res="ci" message="errado@blue">
+            </play>
+            <play pos="zz" res="aa" message="errado@blue">
+            </play>
+          </play>
+          <play pos="ci" res="di">
+            <play pos="ei" res="ag">
+              <play pos="ci" message="correto@red">
+              </play>
+              <play pos="zz" res="ai" message="errado@blue">
+              </play>
+            </play>
+            <play pos="ag" res="ai" message="errado@blue">
+            </play>
+            <play pos="aa" res="ag" message="errado@blue">
+            </play>
+            <play pos="zz" res="ag" message="errado-4 pretas não podem escapar@blue">
+            </play>
+          </play>
+          <play pos="ag" res="ai" message="errado@blue">
+          </play>
+          <play pos="zz" res="ag" message="errado@blue">
+          </play>
+        </play>
+        <play pos="ag" res="af">
+          <play pos="ah" res="ai" message="errado@blue">
+          </play>
+          <play pos="zz" res="ah" message="errado@blue">
+          </play>
+        </play>
+        <play pos="af" res="ah">
+          <play pos="ag" res="ae" message="errado@blue">
+          </play>
+          <play pos="zz" res="ag" message="errado@blue">
+          </play>
+        </play>
+        <play pos="zz" res="ag" message="errado@blue">
+        </play>
+      </play>
+      <play pos="ag" res="bh">
+        <play pos="af" res="ae" message="errado-Você não pode escapar@blue">
+        </play>
+        <play pos="ah" res="af" message="errado-Você não pode escapar@blue">
+        </play>
+        <play pos="ae" res="af" message="errado-Você não pode escapar@blue">
+        </play>
+        <play pos="zz" res="ah" message="errado@blue">
+        </play>
+      </play>
+      <play pos="af" res="bh">
+        <play pos="ag" res="ae">
+          <play pos="ah" res="ai" message="errado@blue">
+          </play>
+          <play pos="zz" res="ah" message="errado@blue">
+          </play>
+        </play>
+        <play pos="zz" res="ag" message="errado@blue">
+        </play>
+      </play>
+      <play pos="zz" res="bh" message="errado-2 pretas não podem escapar@blue">
+      </play>
+  </sequence>
+</data>

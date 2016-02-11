@@ -1,0 +1,8 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[9]KM[0.00]
+PW[Branco]PB[Negro]
+
+AB[ad][bd][ce][de][ee][fe][fd][gd][hd][id]AW[ae][be][cf][df][ef][ff][gf][ge][he][ie]
+
+C[Vez das pretas.](;B[bf];W[bg](;B[af]C[correto - Você venceu o jogo])(;B[ag];W[ah](;B[af]C[correto - Você venceu o jogo])))
+)

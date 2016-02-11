@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<data>
+  <name>48K-3-many</name>
+  <size>9</size>
+  <init>B[bd]W[be]B[cc]W[cd]B[ce]W[cf]B[db]W[dc]W[dd]B[de]W[eb]W[ec]B[ed]B[ee]W[ef]W[cb]B[fb]B[fc]W[fd]W[fe]B[ff]W[fg]W[fh]B[gd]W[ge]B[gf]B[gg]B[gh]B[hd]W[he]W[je]</init>
+  <sequence>
+      <play pos="ea" message="correto@red">
+      </play>
+      <play pos="df" res="dg" message="errado@blue">
+      </play>
+      <play pos="zz" res="df" message="errado@blue">
+      </play>
+  </sequence>
+</data>

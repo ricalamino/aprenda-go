@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<data>
+  <name>hitome-3</name>
+  <size>9</size>
+  <init>B[cg]B[dg]W[ef]W[eg]B[fg]B[eh]W[fh]</init>
+  <sequence>
+      <play pos="gh" message="correto - você pegou F2 @red">
+      </play>
+      <play pos="dh" res="gg" message="errado - F3 foi capturada@blue">
+      </play>
+      <play pos="di" res="gg" message="errado - F3 foi capturada@blue">
+      </play>
+      <play pos="ei" res="gg" message="errado - F3 foi capturada@blue">
+      </play>
+      <play pos="ch" res="gg" message="errado - F3 foi capturada@blue">
+      </play>
+      <play pos="ci" res="gg" message="errado - F3 foi capturada@blue">
+      </play>
+      <play pos="fi" res="gh" message="errado - E3 escapou@blue">
+      </play>
+      <play pos="zz" res="dh" message="errado - E2 foi capturada@blue">
+      </play>
+  </sequence>
+</data>

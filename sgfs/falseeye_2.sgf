@@ -1,0 +1,21 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[9]KM[0.00]
+PW[Branco]PB[Negro]AW[dc][ec][fc][cd][gd][ce][ge][cf][hf][dg][hg][dh][eh][fh]AB[dd][ed][de][fe][df][ef][gf][eg][fg]C[Vez das pretas.]
+(;B[gg]C[Muito bem! 
+Você fez 2 olhos claramente!
+Correto])
+(;B[fd]
+;W[gg]C[Errado! 
+F4 se tornou um falso olho.])
+(;B[ff]
+;W[gg]C[Errado!
+Não preencha seu olho.])
+(;B[ee]
+;W[gg]C[Errado!
+Não preencha seu olho.])
+(;B[gh]
+;W[gg]C[Errado!
+F4 se tornou um falso olho.])
+(;B[hh]
+;W[gg]C[Errado!
+F4 se tornou um falso olho.]))

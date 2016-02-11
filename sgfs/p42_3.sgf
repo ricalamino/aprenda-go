@@ -1,0 +1,23 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[9]KM[0.00]
+PW[Branco]PB[Negro]AW[df][dg][ch][eh][ei]AB[eg][bh][fh][ci][fi]C[Vez das pretas.]
+(;B[dh]
+;W[di]
+(;B[dh]C[Muito bem!
+Correct])
+(;B[cg]
+;W[dh]C[Errado!])
+(;B[bi]
+;W[dh]C[Errado!]))
+(;B[di]
+;W[dh]C[Errado!])
+(;B[cg]
+;W[dh]C[Errado!])
+(;B[fg]
+;W[dh]C[Errado!])
+(;B[de]
+;W[dh]C[Errado!])
+(;B[cf]
+;W[dh]C[Errado!])
+(;B[bi]
+;W[dh]C[Errado!]))

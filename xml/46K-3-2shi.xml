@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<data>
+  <name>46K-3-2shi</name>
+  <size>9</size>
+  <init>W[dc]W[eb]W[bd]B[ce]W[de]W[ee]B[fd]B[fe]B[df]B[ef]</init>
+  <sequence>
+      <play pos="dd" res="ed">
+        <play pos="ec" message="correto@red">
+        </play>
+        <play pos="zz" res="ec" message="errado@blue">
+        </play>
+      </play>
+      <play pos="zz" res="dd" message="errado@blue">
+      </play>
+  </sequence>
+</data>

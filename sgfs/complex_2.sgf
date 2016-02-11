@@ -1,0 +1,52 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[9]KM[0.00]
+PW[Branco]PB[Negro]AW[cd][cf][df][gf][bg][eg][bh][ch][di]AB[ee][bf][ef][cg][dg][dh]C[Vez das pretas.]
+(;B[eh]
+;W[fg]
+(;B[ce]
+;W[be]
+;B[de]C[Muito bem!
+Correto])
+(;B[fh]
+;W[be]C[Errado!
+As pretas em baixo estão sozinhas.])
+(;B[de]
+;W[ce]C[Errado!
+As pretas estão sendo separadas.])
+(;B[ei]
+;W[be]C[Errado!
+As pretas em baixo estão sozinhas.])
+(;B[be]
+;W[ce]C[Errado!
+As pretas estão sendo separadas.])
+(;B[ff]
+;W[be]C[Errado!
+As pretas em baixo estão sozinhas.]))
+(;B[fg]
+;W[eh]C[Errado!])
+(;B[ce]
+;W[eh]C[Errado!])
+(;B[de]
+;W[eh]C[Errado!])
+(;B[ci]
+;W[eh]C[Errado!])
+(;B[ei]
+;W[eh]C[Errado!])
+(;B[ff]
+;W[eh]C[Errado!])
+(;B[af]
+;W[eh]C[Errado!])
+(;B[be]
+;W[eh]C[Errado!])
+(;B[cc]
+;W[eh]C[Errado!])
+(;B[dd]
+;W[eh]C[Errado!])
+(;B[ag]
+;W[eh]C[Errado!])
+(;B[ah]
+;W[eh]C[Errado!])
+(;B[bi]
+;W[eh]C[Errado!])
+(;B[ai]
+;W[eh]C[Errado!]))

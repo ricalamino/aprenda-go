@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<data>
+  <name>yose2</name>
+  <size>9</size>
+  <init>B[dd]B[de]B[df]B[dg]B[dh]B[eb]B[ec]B[ed]B[fa]B[fb]W[ee]W[ef]W[eg]W[eh]W[fc]W[fd]W[ga]W[gb]W[ge]W[di]</init>
+  <sequence>
+      <play pos="ci" res="ei" message="O trabalho ainda não acabou@black">
+        <play pos="ch" message="correto-Você evitou o corte@red">
+        </play>
+        <play pos="bh" message="correto-Você evitou o corte@red">
+        </play>
+        <play pos="cg" message="correto-Você evitou o corte@red">
+        </play>
+        <play pos="ah" res="ch">
+          <play pos="bi" res="bh">
+            <play pos="ai" res="ag" message="errado@blue">
+            </play>
+            <play pos="zz" res="ai" message="errado@blue">
+            </play>
+          </play>
+          <play pos="zz" res="bi" message="errado@blue">
+          </play>
+        </play>
+        <play pos="bi" res="ch">
+          <play pos="bh" message="meio-correto- mas não o melhor@red">
+          </play>
+          <play pos="cg" res="bh" message="errado@blue">
+          </play>
+          <play pos="zz" res="bh" message="errado@blue">
+          </play>
+        </play>
+        <play pos="zz" res="ch" message="Brancas cortaram você!@black">
+          <play pos="bi" res="bh">
+            <play pos="ai" res="ah" message="errado@blue">
+            </play>
+            <play pos="zz" res="ai" message="errado@blue">
+            </play>
+          </play>
+          <play pos="zz" res="bi" message="errado@blue">
+          </play>
+        </play>
+      </play>
+      <play pos="gc" res="hc" message="errado-Você não pode fazer isso@blue">
+      </play>
+      <play pos="ei" res="fi" message="errado@blue">
+      </play>
+      <play pos="zz" res="ci" message="errado@blue">
+      </play>
+  </sequence>
+</data>

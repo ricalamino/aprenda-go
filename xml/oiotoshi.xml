@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<data>
+  <name>oiotoshi</name>
+  <size>9</size>
+  <init>W[bc]B[bd]B[be]W[cd]B[cf]B[cg]B[ch]W[dg]W[dh]B[di]W[ec]B[ee]W[eg]W[fg]B[eh]B[fh]W[gh]W[gc]B[ge]W[hc]B[he]W[hf]</init>
+  <sequence>
+      <play pos="ei" message="correto@red">
+      </play>
+      <play pos="ci" res="fi">
+        <play pos="ei" message="correto@red">
+        </play>
+        <play pos="zz" res="ei" message="errado@blue">
+        </play>
+      </play>
+      <play pos="fi" res="gi">
+        <play pos="ei" res="ci" message="errado@blue">
+        </play>
+        <play pos="zz" res="ei" message="errado@blue">
+        </play>
+      </play>
+      <play pos="gi" res="ei">
+        <play pos="fi" res="hi">
+          <play pos="ei" res="ci" message="errado@blue">
+          </play>
+          <play pos="zz" res="ei" message="errado@blue">
+          </play>
+        </play>
+        <play pos="zz" res="fi" message="errado@blue">
+        </play>
+      </play>
+      <play pos="zz" res="fi">
+        <play pos="ei" res="ci" message="errado@blue">
+        </play>
+        <play pos="zz" res="ei" message="errado@blue">
+        </play>
+      </play>
+  </sequence>
+</data>

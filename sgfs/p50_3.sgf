@@ -1,0 +1,21 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[9]KM[0.00]
+PW[Branco]PB[Negro]AW[dc][bd][cd][de][ef]AB[dd][ce][df]C[Vez das pretas. 
+Mesmo se existirem outras pedras por perto, 
+apenas faça o mesmo.]
+(;B[ee]C[Muito bem!
+Correct])
+(;B[ed]
+;W[ee]C[Errado!])
+(;B[cf]
+;W[ed]C[Errado])
+(;B[cc]
+;W[ee]C[Errado!])
+(;B[ec]
+;W[ed]C[Errado!])
+(;B[eg]
+;W[ed]C[Errado!])
+(;B[fe]
+;W[ed]C[Errado!])
+(;B[ff]
+;W[ed]C[Errado!]))

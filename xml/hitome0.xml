@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<data>
+  <name>hitome0</name>
+  <size>9</size>
+  <init>B[de]W[cf]B[dg]W[ef]</init>
+  <sequence>
+      <play pos="df" message="correto - pretas se conectaram@red">
+      </play>
+      <play pos="zz" res="df" message="errado - brancas se conectaram@blue">
+      </play>
+  </sequence>
+</data>

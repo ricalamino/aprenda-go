@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<data>
+  <name>shicho-2</name>
+  <size>9</size>
+  <init>B[cd]W[bd]W[be]W[cc]W[dd]B[fh]</init>
+  <sequence>
+      <play pos="ce" res="cf" message="Atari!@black">
+        <play pos="de" res="ee" message="Atari!@black">
+          <play pos="df" res="dg" message="Atari!@black">
+            <play pos="ef" res="ff" message="Atari!@black">
+              <play pos="eg" res="eh" message="Atari!@black">
+                <play pos="fg" message="correto@red">
+                </play>
+                <play pos="zz" res="fg" message="errado@blue">
+                </play>
+              </play>
+              <play pos="zz" res="eg" message="errado@blue">
+              </play>
+            </play>
+            <play pos="zz" res="ef" message="errado@blue">
+            </play>
+          </play>
+          <play pos="zz" res="df" message="errado@blue">
+          </play>
+        </play>
+        <play pos="zz" res="de" message="errado@blue">
+        </play>
+      </play>
+      <play pos="zz" res="ce" message="errado@blue">
+      </play>
+  </sequence>
+</data>

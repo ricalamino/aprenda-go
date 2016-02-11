@@ -1,0 +1,133 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[9]KM[0.00]
+PW[Branco]PB[Negro]AW[bc][cc][dc][ec][fc][gc][bd][hd][ae][ce][he][hf][bg][cg][dg][eg][fg]AB[cd][dd][ed][fd][be][ee][ge][cf][df][ef][ff]C[Vez das pretas.]
+(;B[bf]
+;W[gf]
+(;B[gd]C[Muito bem!
+C5 está morta!
+Correto])
+(;B[de]
+;W[gd]C[Errado!
+F5 agora é um falso olho.])
+(;B[af]
+;W[gd]C[Errado!
+F5 agora é um falso olho.])
+(;B[ad]
+;W[gd]C[Errado!
+F5 agora é um falso olho.])
+(;B[gg]
+;W[gd]C[Errado!
+F5 agora é um falso olho.])
+(;B[ag]
+;W[gd]C[Errado!
+F5 agora é um falso olho.])
+(;B[ah]
+;W[gd]C[Errado!
+F5 agora é um falso olho.])
+(;B[ac]
+;W[gd]C[Errado!
+F5 agora é um falso olho.])
+(;B[id]
+;W[gd]C[Errado!
+F5 agora é um falso olho.])
+(;B[ie]
+;W[gd]C[Errado!
+F5 agora é um falso olho.])
+(;B[if]
+;W[gd]C[Errado!
+F5 agora é um falso olho.])
+(;B[hg]
+;W[gd]C[Errado!
+F5 agora é um falso olho.])
+(;B[gb]
+;W[gd]C[Errado!
+F5 agora é um falso olho.])
+(;B[fb]
+;W[gd]C[Errado!
+F5 agora é um falso olho.])
+(;B[bb]
+;W[gd]C[Errado!
+F5 agora é um falso olho.])
+(;B[ab]
+;W[gd]C[Errado!
+F5 agora é um falso olho.])
+(;B[eb]
+;W[gd]C[Errado!
+F5 agora é um falso olho.])
+(;B[db]
+;W[gd]C[Errado!
+F5 agora é um falso olho.])
+(;B[cb]
+;W[gd]C[Errado!
+F5 agora é um falso olho.])
+(;B[bh]
+;W[gd]C[Errado!
+F5 agora é um falso olho.])
+(;B[ch]
+;W[gd]C[Errado!
+F5 agora é um falso olho.])
+(;B[dh]
+;W[gd]C[Errado!
+F5 agora é um falso olho.])
+(;B[eh]
+;W[gd]C[Errado!
+F5 agora é um falso olho.])
+(;B[fh]
+;W[gd]C[Errado!
+F5 agora é um falso olho.]))
+(;B[gd]
+;W[bf]C[Errado!])
+(;B[gf]
+;W[bf]C[Errado!])
+(;B[af]
+;W[bf]C[Errado!])
+(;B[ac]
+;W[bf]C[Errado!])
+(;B[ab]
+;W[bf]C[Errado!])
+(;B[bb]
+;W[bf]C[Errado!])
+(;B[hc]
+;W[bf]C[Errado!])
+(;B[gg]
+;W[bf]C[Errado!])
+(;B[hg]
+;W[bf]C[Errado!])
+(;B[ag]
+;W[bf]C[Errado!])
+(;B[bh]
+;W[bf]C[Errado!])
+(;B[ah]
+;W[bf]C[Errado!])
+(;B[hb]
+;W[bf]C[Errado!])
+(;B[aa]
+;W[bf]C[Errado!])
+(;B[ba]
+;W[bf]C[Errado!])
+(;B[da]
+;W[bf]C[Errado!])
+(;B[eb]
+;W[bf]C[Errado!])
+(;B[fb]
+;W[bf]C[Errado!])
+(;B[gb]
+;W[bf]C[Errado!])
+(;B[ic]
+;W[bf]C[Errado!])
+(;B[id]
+;W[bf]C[Errado!])
+(;B[ie]
+;W[bf]C[Errado!])
+(;B[if]
+;W[bf]C[Errado!])
+(;B[ig]
+;W[bf]C[Errado!])
+(;B[fh]
+;W[bf]C[Errado!])
+(;B[eh]
+;W[bf]C[Errado!])
+(;B[dh]
+;W[bf]C[Errado!])
+(;B[ch]
+;W[bf]C[Errado!]))

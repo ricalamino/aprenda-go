@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<data>
+  <name>samplegame0</name>
+  <size>9</size>
+  <init></init>
+  <display_numbers>true</display_numbers>
+  <moves>
+    <play pos="de" message="Vamos começar pelo centro." ></play>
+    <play pos="fe" message="Pretas estão na esquerda, então as brancas vão para a direita." ></play>
+    <play pos="dc" message="Indo para cima..." ></play>
+    <play pos="fg" message="Então, brancas vão para baixo." ></play>
+    <play pos="dg" message="Pretas protegem o canto inferior esquerdo." ></play>
+    <play pos="fc" message="Então as brancas ocupam o lado direito." ></play>
+    <play pos="fb" message="Pretas ameaçam invadir o lado direito." ></play>
+    <play pos="gb" message="Você não pode fazer isso! Brancas se protegem." ></play>
+    <play pos="eb" message="Pretas se resguardam." ></play>
+    <play pos="dh" message="Agoras as brancas atacam o canto esquerdo." ></play>
+    <play pos="ch" message="Pretas se defendem." ></play>
+    <play pos="eg" message="Atacando a preta 5." ></play>
+    <play pos="df" message="Defende a 5 conectando." ></play>
+    <play pos="hc" message="Previne o corte em G7." ></play>
+    <play pos="eh" message="Atari na branca 10." ></play>
+    <play pos="fh" message="Brancas desistem mas se previnem de invasões futuras." ></play>
+    <play pos="di" message="Captura a branca pois a preta 15 também estava em Atari." ></play>
+    <play pos="ec" message="Aproximando do canto esquerdo..." ></play>
+    <play pos="fi" message="Preta também tenta invadir o canto inferior direito." ></play>
+    <play pos="gi" message="Brancas previnem o ataque da preta 19." ></play>
+    <play pos="ei" message="Conectanado a pedra em Atari." ></play>
+    <play pos="gh" message="Previne o corte em G2." ></play>
+    <play pos="ee" message="Tenta expandir para o centro enquanto ataca as brancas 2" ></play>
+    <play pos="ed" message="brancas se defendem e também ameaçam na esquerda." ></play>
+    <play pos="dd" message="Defendem-se conectando firmemente as pretas 3 e 1." ></play>
+    <play pos="fa" message="Fazendo o território branco maior enquanto reduz o das pretas./Também objetiva o corte em D8." ></play>
+    <play pos="da" message="Defende o corte D8." ></play>
+    <play pos="ef" message="fazendo sua área um pouco maior." ></play>
+    <play pos="ea" message="Atari nas brancas em 26." ></play>
+    <play pos="ga" message="Defende a 26 e o jogo acabou./Não há lugares para ganhar território para ambos." ></play>
+  </moves>
+</data>

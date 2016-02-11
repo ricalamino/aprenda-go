@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<data>
+  <name>falseeye3</name>
+  <size>9</size>
+  <init>B[ab]B[bb]B[ca]B[cb]B[db]B[dc]B[ea]B[ec]W[bc]W[be]W[cd]W[dd]W[ed]W[fb]W[fc]W[gd]</init>
+  <sequence>
+      <play pos="eb" message="correto@red">
+      </play>
+      <play pos="da" res="eb" message="errado - Não preencha seu olho@blue">
+      </play>
+      <play pos="zz" res="eb" message="errado - D9 se tornou um olho falso@blue">
+      </play>
+  </sequence>
+</data>

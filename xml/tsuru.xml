@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<data>
+  <name>tsuru</name>
+  <size>9</size>
+  <init>B[ce]B[cf]B[dg]B[eg]B[fg]B[gf]B[ge]W[ed]W[df]W[ef]W[ff]</init>
+  <sequence>
+      <play pos="ee" res="de">
+        <play pos="dd" res="fe">
+          <play pos="fd" res="ee">
+            <play pos="ec" message="correto@red">
+            </play>
+            <play pos="zz" res="ec" message="errado@blue">
+            </play>
+          </play>
+          <play pos="fc" res="ec" message="errado@blue">
+          </play>
+          <play pos="zz" res="fc" message="errado@blue">
+          </play>
+        </play>
+        <play pos="zz" res="dd" message="errado@blue">
+        </play>
+      </play>
+      <play pos="dd" res="fd">
+        <play pos="ee" res="fe" message="errado@blue">
+        </play>
+        <play pos="fe" res="ee" message="errado@blue">
+        </play>
+        <play pos="gc" res="dc" message="errado@blue">
+        </play>
+        <play pos="zz" res="gc" message="errado@blue">
+        </play>
+      </play>
+      <play pos="de" res="fd">
+        <play pos="ee" res="fe" message="errado@blue">
+        </play>
+        <play pos="fe" res="ee" message="errado@blue">
+        </play>
+        <play pos="gc" res="dc" message="errado@blue">
+        </play>
+        <play pos="zz" res="gc" message="errado@blue">
+        </play>
+      </play>
+      <play pos="fd" res="dd">
+        <play pos="ee" res="de" message="errado@blue">
+        </play>
+        <play pos="de" res="ee" message="errado@blue">
+        </play>
+        <play pos="cc" res="fc" message="errado@blue">
+        </play>
+        <play pos="zz" res="cc" message="errado@blue">
+        </play>
+      </play>
+      <play pos="fe" res="dd">
+        <play pos="ee" res="de" message="errado@blue">
+        </play>
+        <play pos="de" res="ee" message="errado@blue">
+        </play>
+        <play pos="cc" res="fc" message="errado@blue">
+        </play>
+        <play pos="zz" res="cc" message="errado@blue">
+        </play>
+      </play>
+      <play pos="zz" res="dd" message="errado@blue">
+      </play>
+  </sequence>
+</data>

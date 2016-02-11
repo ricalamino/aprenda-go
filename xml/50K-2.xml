@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<data>
+  <name>50K-2</name>
+  <size>9</size>
+  <init>B[cc]B[cd]B[db]W[dc]W[dd]B[de]B[ec]</init>
+  <sequence>
+      <play pos="ed" message="correto@red">
+      </play>
+      <play pos="zz" res="ed" message="errado@blue">
+      </play>
+  </sequence>
+</data>

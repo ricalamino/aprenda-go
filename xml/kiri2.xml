@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<data>
+  <name>kiri2</name>
+  <size>9</size>
+  <init>B[ad]B[bd]B[ce]B[de]B[ee]B[fe]B[fd]B[gd]B[hd]B[id]W[ae]W[be]W[cf]W[df]W[ef]W[ff]W[gf]W[ge]W[he]W[ie]</init>
+  <sequence>
+      <play pos="bf" res="bg">
+        <play pos="af" message="correto - Você venceu o jogo@red">
+        </play>
+        <play pos="ag" res="ah">
+          <play pos="af" message="correto - Você venceu o jogo@red">
+          </play>
+          <play pos="zz" res="af" message="errado@blue">
+          </play>
+        </play>
+        <play pos="zz" res="af" message="errado@blue">
+        </play>
+      </play>
+      <play pos="zz" res="bf" message="errado@blue">
+      </play>
+  </sequence>
+</data>

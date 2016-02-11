@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<data>
+  <name>nigan-iki-1</name>
+  <size>9</size>
+  <init>W[bc]W[bd]W[be]W[cb]W[db]W[eb]W[fb]W[gb]W[hc]W[hd]W[he]W[cf]W[df]W[ef]W[ff]W[gf]B[cc]B[dc]B[ec]B[fc]B[gc]B[ce]B[de]B[ee]B[fe]B[ge]B[cd]B[gd]</init>
+  <sequence>
+      <play pos="ed" message="correto@red">
+      </play>
+      <play pos="dd" res="ed">
+        <play pos="fd" res="ed" message="errado@blue">
+        </play>
+        <play pos="zz" res="fd" message="errado@blue">
+        </play>
+      </play>
+      <play pos="fd" res="ed">
+        <play pos="dd" res="ed" message="errado@blue">
+        </play>
+        <play pos="zz" res="dd" message="errado@blue">
+        </play>
+      </play>
+      <play pos="zz" res="ed" message="errado@blue">
+      </play>
+  </sequence>
+</data>

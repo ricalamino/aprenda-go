@@ -1,0 +1,84 @@
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.0/jquery.min.js"></script>
+<script src="glift_1_0_6.min.js" ></script>
+<link rel=stylesheet href="style.css" type="text/css">
+<title>Problemas de 42 Kyu</title>
+</head>
+<body>
+<h2>Problemas de 42 Kyu</h2>
+<h3>Dando o troco</h3>
+Nessa página, você irá aprender a técnica chamada de "dando o troco"(Uttegaeshi em Japonês). 
+<hr>
+É a vez das pretas. Você pode capturar 4 pedras brancas. 
+<p> [Dica] Você precisa sacrificar uma pedra primeiro. 
+<p>
+   <div id="p42_1" style="height:500px; width:100%; position:relative;"></div>
+<p>
+<hr>
+Do mesmo modo.
+<p> Ajude as duas pedras pretas matando 2 brancas no meio do tabuleiro. Assim todas
+  as pedras pretas estarão conectadas.
+<p>
+  <div id="p42_2" style="height:500px; width:100%; position:relative;"></div>
+<p>
+<hr>
+Dando o troco no canto. 
+<p>
+  <div id="p42_3" style="height:500px; width:100%; position:relative;"></div>
+<p>
+<hr>
+<a href="ko.html"><img src="images/next.gif" border="0">Próximo</a>
+<a href="index.html"><img src="images/toc.gif" border="0">Conteúdo</a>
+
+<script type="text/javascript">
+      _uacct = "UA-870456-2";
+      urchinTracker();
+    </script>
+
+    <script type="text/javascript">
+  $(document).ready(function(){ 
+
+
+glift.create({
+divId: 'p42_1',
+sgf: 'sgfs/p42_1.sgf',
+sgfDefaults: {
+    widgetType: 'STANDARD_PROBLEM'
+  },
+});
+
+glift.create({
+divId: 'p42_2',
+sgf: 'sgfs/p42_2.sgf',
+sgfDefaults: {
+    widgetType: 'STANDARD_PROBLEM'
+  },
+});
+
+glift.create({
+divId: 'p42_3',
+sgf: 'sgfs/p42_3.sgf',
+sgfDefaults: {
+    widgetType: 'STANDARD_PROBLEM'
+  },
+});
+
+
+
+  });
+
+    </script>
+    <script type="text/javascript">
+var _urq = _urq || [];
+_urq.push(['initSite', '8dfa982d-d6e9-44a4-a4c2-1c555f1591a2']);
+(function() {
+var ur = document.createElement('script'); ur.type = 'text/javascript'; ur.async = true;
+ur.src = ('https:' == document.location.protocol ? 'https://cdn.userreport.com/userreport.js' : 'http://cdn.userreport.com/userreport.js');
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ur, s);
+})();
+</script>
+</body>
+</html>

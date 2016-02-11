@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<data>
+  <name>kamitori</name>
+  <size>9</size>
+  <init>W[be]B[bf]B[bg]B[bh]W[cd]W[cf]B[cg]W[ch]W[df]W[dg]B[gd]B[gg]</init>
+  <sequence>
+      <play pos="dh" res="eh">
+        <play pos="ci" message="correto@red">
+        </play>
+        <play pos="di" res="ei">
+          <play pos="ci" message="correto@red">
+          </play>
+          <play pos="zz" res="ci" message="errado@blue">
+          </play>
+        </play>
+        <play pos="zz" res="di" message="correto@blue">
+        </play>
+      </play>
+      <play pos="zz" res="dh" message="errado@blue">
+      </play>
+  </sequence>
+</data>

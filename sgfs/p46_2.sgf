@@ -1,0 +1,32 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[9]KM[0.00]
+PW[Branco]PB[Negro]AW[ba][ca][da][ab][bb][cb][db][ec][ad][cd][dd]AB[ea][eb][ac][bc][cc][dc]C[Vez das pretas.
+Mate as pedras brancas antes de ser morto!]
+(;B[aa]C[Muito bem!
+Correct])
+(;B[bd]
+;W[be]C[Errado!])
+(;B[ed]
+;W[bd]C[Errado!])
+(;B[fc]
+;W[bd]C[Errado!])
+(;B[fb]
+;W[bd]C[Errado!])
+(;B[be]
+;W[bd]C[Errado!])
+(;B[ae]
+;W[bd]C[Errado!])
+(;B[ce]
+;W[bd]C[Errado!])
+(;B[de]
+;W[bd]C[Errado!])
+(;B[ee]
+;W[bd]C[Errado!])
+(;B[fa]
+;W[bd]C[Errado!])
+(;B[fd]
+;W[bd]C[Errado!])
+(;B[gb]
+;W[bd]C[Errado!])
+(;B[ga]
+;W[bd]C[Errado!]))

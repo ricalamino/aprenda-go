@@ -1,0 +1,7 @@
+
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[9]KM[0.00]
+PW[Branco]PB[Negro]
+AW[bc][dg][dh][cd][ec][eg][fg][gh][gc][hc][hf]AB[bd][be][cf][cg][ch][di][ee][eh][fh][ge][he]
+C[Vez das pretas.](;B[ei]C[correto])(;B[ci];W[fi](;B[ei]C[correto]))(;B[fi];W[gi](;B[ei];W[ci]C[errado]))(;B[gi];W[ei](;B[fi];W[hi](;B[ei];W[ci]C[errado])))
+)

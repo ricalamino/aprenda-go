@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<data>
+  <name>chika1</name>
+  <size>9</size>
+  <init>W[bb]W[bc]B[bd]W[bf]B[bg]B[cb]B[cc]W[cd]W[cf]B[cg]B[dc]W[dd]W[de]B[df]W[eb]W[ec]B[ed]W[ee]B[ef]W[eg]B[eh]B[fb]B[fd]B[fe]W[ff]W[fg]B[fh]W[gb]B[gc]W[gd]W[ge]W[gg]B[gh]W[hc]B[hd]W[hf]B[hg]</init>
+  <sequence>
+      <play pos="ce" message="correto@red">
+      </play>
+      <play pos="fc" res="fa" message="errado@blue">
+      </play>
+      <play pos="zz" res="fc" message="errado@blue">
+      </play>
+  </sequence>
+</data>

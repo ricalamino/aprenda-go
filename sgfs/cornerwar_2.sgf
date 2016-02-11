@@ -1,0 +1,54 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[9]KM[0.00]
+PW[Branco]PB[Negro]AW[he][gf][gg][hh]AB[hf][hg][fh][gh]C[Vez das pretas.]
+(;B[ih]
+;W[hi]C[Brancas escapam.]
+(;B[gi]
+;W[if]
+;B[ii]C[Muito bem!
+Correto])
+(;B[ii]
+;W[ig]C[Errado!]))
+(;B[hi]
+;W[ih]C[Brancas escapam.]
+(;B[if]
+;W[ie]C[Errado!
+3 pretas mortas.])
+(;B[ii]
+;W[gi]C[Errado!])
+(;B[fi]
+;W[if]C[Errado!
+2 pretas não conseguem escapar.])
+(;B[gi]
+;W[ig]C[Errado!
+2 pretas não conseguem escapar.])
+(;B[ig]
+;W[if]C[Errado!])
+(;B[ie]
+;W[ig]C[Errado!]))
+(;B[ii]
+;W[ig]C[Errado!
+2 pretas não conseguem escapar.])
+(;B[ig]
+;W[ih]C[Errado!
+3 pretas não conseguem escapar.])
+(;B[gi]
+;W[ig]C[Errado!
+2 pretas não conseguem escapar.])
+(;B[ge]
+;W[ig]C[Errado!
+2 pretas não conseguem escapar.])
+(;B[ie]
+;W[ig]
+(;B[ih]
+;W[if]C[Errado!])
+(;B[if]
+;W[id]C[Errado!])
+(;B[hi]
+;W[if]C[Errado!]))
+(;B[fg]
+;W[ig]C[Errado!
+2 pretas não conseguem escapar.])
+(;B[if]
+;W[ie]C[Errado!
+3 pretas não conseguem escapar.]))

@@ -1,0 +1,8 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[9]KM[0.00]
+PW[Branco]PB[Negro]
+
+AB[dd][de][df][dg][dh][eb][ec][ed][fa][fb]AW[ee][ef][eg][eh][fc][fd][ga][gb][ge][di]
+
+C[Vez das pretas.](;B[ci];W[ei]C[O trabalho ainda não acabou](;B[ch]C[correto-Você evitou o corte])(;B[bh]C[correto-Você evitou o corte])(;B[cg]C[correto-Você evitou o corte])(;B[ah];W[ch](;B[bi];W[bh](;B[ai];W[ag]C[errado])))(;B[bi];W[ch](;B[bh]C[meio-correto- mas não o melhor])(;B[cg];W[bh]C[errado])))(;B[gc];W[hc]C[errado-Você não pode fazer isso])(;B[ei];W[fi]C[errado])
+)

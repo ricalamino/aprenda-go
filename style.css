@@ -1,0 +1,42 @@
+body{
+	color:black;
+background:#f3f2ee;
+     font-family: Candara,"PT Serif","Futura",Arial;
+    font-size: 16px;
+    line-height: 1.5em;
+    color: #1f0909;
+    text-align: left;
+    margin:auto;
+    padding:20px;
+}
+
+
+@media (min-width: 768px) {
+   body {
+    width:50%;
+ padding:50px 0px 50px 0;
+  }
+  
+}
+
+
+.errado
+{
+color:#0000ff;
+}
+
+.correto
+{
+color:#ff0000;
+}
+
+img {
+
+border:0;
+}
+
+h1 {
+
+    padding-bottom: 20px;
+    border-bottom: 1px #aaa solid;
+}

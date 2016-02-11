@@ -1,0 +1,59 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[9]KM[0.00]
+PW[Branco]PB[Negro]AW[ea][ha][eb][hb][ec][hc][fd][gd]AB[ca][fa][cb][fb][cc][fc][dd][ed]C[Vez das pretas.]
+(;B[dc]
+;W[gc]
+(;B[db]
+;W[gb]
+;B[da]C[Muito bem!
+Correct])
+(;B[da]
+;W[gb]
+;B[db]C[Muito bem!
+Correct]))
+(;B[da]
+;W[gc]
+(;B[db]
+;W[gb]
+;B[dc]C[Muito bem!
+Correct])
+(;B[dc]
+;W[gb]
+;B[db]C[Muito bem!
+Correct]))
+(;B[db]
+;W[gc]
+(;B[dc]
+;W[gb]
+;B[da]C[Muito bem!
+Correct])
+(;B[da]
+;W[gb]
+;B[dc]C[Muito bem!
+Correct]))
+(;B[gc]
+;W[gb]C[Errado!])
+(;B[ga]
+;W[gc]C[Errado!])
+(;B[gb]
+;W[gc]C[Errado!])
+(;B[hd]
+;W[gc]C[Errado!])
+(;B[fe]
+;W[gc]C[Errado!])
+(;B[ge]
+;W[gc]C[Errado!])
+(;B[cd]
+;W[gc]C[Errado!])
+(;B[ia]
+;W[gc]C[Errado!])
+(;B[ib]
+;W[gc]C[Errado!])
+(;B[ic]
+;W[gc]C[Errado!])
+(;B[ba]
+;W[gc]C[Errado!])
+(;B[bb]
+;W[gc]C[Errado!])
+(;B[bc]
+;W[gc]C[Errado!]))

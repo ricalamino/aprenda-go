@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<data>
+  <name>komi3</name>
+  <firstmove>W</firstmove>
+  <size>19</size>
+  <init>B[dd]B[dp]B[pp]B[pd]</init>
+  <display_numbers>true</display_numbers>
+</data>

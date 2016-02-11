@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<data>
+  <name>49K-1</name>
+  <size>9</size>
+  <init>B[ca]W[da]B[db]W[ea]B[eb]W[gb]W[ga]</init>
+  <sequence>
+      <play pos="fa" message="correto@red">
+      </play>
+      <play pos="zz" res="fa" message="errado-as brancas estão todas conectadas.@blue">
+      </play>
+  </sequence>
+</data>

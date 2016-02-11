@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<data>
+  <name>samplegame1</name>
+  <size>9</size>
+  <init></init>
+  <display_numbers>true</display_numbers>
+  <moves>
+    <play pos="ee" message="Indo para o centro e olhando para todos os cantos!" ></play>
+    <play pos="ef" message="Brancas atacam tocando." ></play>
+    <play pos="df" message="Pretas apenas dão uma forçada no atacante." ></play>
+    <play pos="de" message="Corte entre as duas pedras pretas./Já que as brancas já estão cortadas também, uma briga de cachorros é inevitável!" ></play>
+    <play pos="cf" message="Preparando-se para a briga./Se as pretas jogam em D6 em seguida, elas podem capturar 4 por causa da Escada." ></play>
+    <play pos="dd" message="Isso é muito ruim para as brancas./Então as brancas expandem a 4." ></play>
+    <play pos="ed" message="Atacando duas pedras brancas enquanto expandem a 1." ></play>
+    <play pos="dc" message="Expandem e defendem." ></play>
+    <play pos="ff" message="Atari na 2!" ></play>
+    <play pos="eg" message="Conectam a 2." ></play>
+    <play pos="fg" message="Ainda atacando duas pedras brancas." ></play>
+    <play pos="eh" message="Escapam..." ></play>
+    <play pos="ch" message="Cercando três pedras brancas no canto inferior esquerdo." ></play>
+    <play pos="fe" message="Cortam as pedras pretas." ></play>
+    <play pos="fd" message="Atari nelas." ></play>
+    <play pos="ge" message="Escapam...." ></play>
+    <play pos="gd" message="Mais ataque." ></play>
+    <play pos="gf" message="Escapando por baixo./Enquanto escapam, brancas atacam 9 e 11." ></play>
+    <play pos="gg" message="Pretas respondem atacando." ></play>
+    <play pos="hg" message="Sai!" ></play>
+    <play pos="bd" message="Pretas mudam de idéia. /Agora elas estão cercando três pedras brancas no canto superior esquerdo.../Ao mesmo tempo que protege o grupo no lado esquerdo inferior." ></play>
+    <play pos="fb" message="Brancas expandem pela área superior e atacam em 4 as pretas." ></play>
+    <play pos="he" message="Atari em 3 pedras brancas." ></play>
+    <play pos="hf" message="Claro que elas se protegem." ></play>
+    <play pos="gb" message="Tentam criar território em cima a direita enquanto atacam em 22." ></play>
+    <play pos="fc" message="Defendem 22./Próximo, invadem através de G7." ></play>
+    <play pos="gc" message="Tapando o buraco G7./Agora, o canto superior direito parece das pretas." ></play>
+    <play pos="bc" message="Brancas expandem seu território no canto superior esquerdo." ></play>
+    <play pos="cc" message="Pretas pulam entre duas brancas." ></play>
+    <play pos="cd" message="White attacks the invader from outside./Atari!" ></play>
+    <play pos="cb" message="O invasor vai para o buraco." ></play>
+    <play pos="be" message="Brancas quase capturaram 21." ></play>
+    <play pos="ec" message="Ataque em 22 e 26." ></play>
+    <play pos="db" message="Elas não podem ser salvas por causa dos invasores na esquerda./Então as brancas desistem das duas pedras mas atacam os invasores." ></play>
+    <play pos="eb" message="Duas pedras brancas são quase capturadas." ></play>
+    <play pos="bb" message="Então, duas pedras pretas são quase capturadas." ></play>
+    <play pos="bf" message="Protege o canto inferior esquerdo." ></play>
+    <play pos="hd" message="Ameaçam 23." ></play>
+    <play pos="hc" message="Pretas desistem da 23 mas tem que prevenir invasões./38 está agora em Atari." ></play>
+    <play pos="ie" message="Capturam 23." ></play>
+    <play pos="dh" message="Fazendo o canto inferior esquerdo maior enquanto atacam 3 pedras brancas." ></play>
+    <play pos="ic" message="Brancas ainda tentam invadir o canto superior." ></play>
+    <play pos="ib" message="Defendem-se/42 está em Atari." ></play>
+    <play pos="id" message="Conectam 42." ></play>
+    <play pos="ce" message="Ao atacar 32, pretas forçam as brancas a capturar a 21." ></play>
+    <play pos="ad" message="Capturam 21." ></play>
+    <play pos="ei" message="Pretas planejam invadir a direita./Ao mesmo tempo, pretas desistem de 3 pedras(9,11,19)." ></play>
+    <play pos="fi" message="Previnem a invasão." ></play>
+    <play pos="di" message="Conectam 47." ></play>
+    <play pos="fh" message="Agora as brancas tem que capturar as 3 pedras pretas por segurança." ></play>
+    <play pos="dg" message="Pretas ainda atacam 5 pedras brancas stones./Se jogarem em G2 em seguida, elas capturam 5 pedras." ></play>
+    <play pos="gh" message="Capturam as 3 pedras e agora estão salvas." ></play>
+    <play pos="af" message="Fazendo o canto inferior esquerdo o maior possível..." ></play>
+    <play pos="ea" message="Ameaçando salvar duas pedras brancas." ></play>
+    <play pos="fa" message="São capturadas./54 em Atari." ></play>
+    <play pos="da" message="Conectam 54." ></play>
+    <play pos="ae" message="Atari em 32." ></play>
+    <play pos="bd" message="Brancas conectam-se./Agora o jogo acabou." ></play>
+  </moves>
+</data>

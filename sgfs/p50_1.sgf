@@ -1,0 +1,10 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[9]KM[0.00]
+PW[Branco]PB[Negro]AW[ee]AB[ed][de][ef]C[Agora você deve capturar a pedra branca!]
+(;B[fe]C[Muito bem!
+Correct])
+(;B[ge]C[Errado!])
+(;B[fd]C[Errado])
+(;B[ff]C[Errado!])
+(;B[df]C[Errado!])
+(;B[dd]C[Errado!]))

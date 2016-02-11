@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<data>
+  <name>ryoatari-1</name>
+  <size>9</size>
+  <init>B[cc]B[cd]B[dc]B[eb]W[be]W[ce]W[dd]W[ec]W[fb]</init>
+  <sequence>
+      <play pos="ed" res="fc">
+        <play pos="de" message="correto@red">
+        </play>
+        <play pos="zz" res="de" message="errado@blue">
+        </play>
+      </play>
+      <play pos="fc" res="ed" message="errado@blue">
+      </play>
+      <play pos="de" res="ed" message="errado@blue">
+      </play>
+      <play pos="zz" res="ed" message="errado@blue">
+      </play>
+  </sequence>
+</data>
