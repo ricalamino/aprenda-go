@@ -2,6 +2,8 @@
 	<head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.0/jquery.min.js"></script>
+<script src="glift_1_0_6.min.js" ></script>
 <script src="AC_RunActiveContent.js" type="text/javascript"></script>
 		<link rel=stylesheet href="style.css" type="text/css">
 		<title>Aprenda a Jogar Go Interativamente (The Interactive Way To Go)</title>
@@ -9,6 +11,12 @@
 	<body>
 		
 		<h1>Aprenda a Jogar Go Interativamente</h1>
+
+		<h2>INCRÍVEL! Lee Sedol (pretas) vs AlphaGo (brancas) - (Jogo #1 - 08/03/2016)</h2>
+
+		<div id="pp" style="height:500px; width:100%; position:relative;"></div>
+
+
 		<h2>Regras básicas e como capturar pedras</h2>
 		<ul>
 			<li><a href="welcome.html" >Introdução</a></li>
@@ -51,6 +59,8 @@
 		</ul>
 		<p>Copyright 1997-1999, <a href="mailto:mori@playgo.to">Hiroki Mori</a></p>
 		<p>Traduzido por <a href="mailto:alamino@alamino.net">Ricardo Alamino</a></p>
+
+		
 
 		<h2>Download</h2>
 		<p>Se você quiser dar um download desse tutorial <a href="http://playgo.to/doc/interactive-way-to-go.zip">clique aqui</a>
@@ -172,5 +182,24 @@ ur.src = ('https:' == document.location.protocol ? 'https://cdn.userreport.com/u
 var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ur, s);
 })();
 </script>
+
+<script type="text/javascript">
+  $(document).ready(function(){ 
+
+
+glift.create({
+divId: 'pp',
+sgf: 'sgfs/20160309_ls_ag_1.sgf',
+display: {
+	drawBoardCoords: true
+}
+});
+
+
+
+
+  });
+
+    </script>
 </body>
 </html>
