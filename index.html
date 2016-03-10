@@ -12,12 +12,17 @@
 		
 		<h1>Aprenda a Jogar Go Interativamente</h1>
 
-		<h2>INCRÍVEL! Lee Sedol (9p) (pretas) vs <figure class="logo-dm" style="width: 30px;height: 30px;"></figure>AlphaGo (brancas) - (Jogo #1 - 09/03/2016)</h2>
+		<h2><figure class="logo-dm" style="width: 30px;height: 30px;"></figure>AlphaGo (pretas) vs Lee Sedol (9p) (brancas) - (Jogo #2 - 10/03/2016)</h2>
+
+		<div id="p2" style="height:500px; width:100%; position:relative;"></div>
 
 
-		<div id="pp" style="height:500px; width:100%; position:relative;"></div>
+		<h2>Lee Sedol (9p) (pretas) vs <figure class="logo-dm" style="width: 30px;height: 30px;"></figure>AlphaGo (brancas) - (Jogo #1 - 09/03/2016)</h2>
 
-		<p>No Youtube acesse: <a href="https://www.youtube.com/watch?v=vFr3K2DORc8">https://www.youtube.com/watch?v=vFr3K2DORc8</a></p>
+
+		<div id="p1" style="height:500px; width:100%; position:relative;"></div>
+
+		<p>No Youtube acesse: <a href="https://www.youtube.com/channel/UCP7jMXSY2xbc3KCAE0MHQ-A">Canal do Google Deepmind</a></p>
 
 		<p><a href="fanhui_alphago.htm">Clique aqui para ver as partidas entre Fan Hui e AlphaGo</a></p>
 
@@ -193,8 +198,17 @@ var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ur
 
 
 glift.create({
-divId: 'pp',
-sgf: 'sgfs/20160309_ls_ag_1.sgf',
+divId: 'p1',
+sgf: 'sgfs/leesedol_alphago/20160309_ls_ag_1.sgf',
+display: {
+	drawBoardCoords: true
+}
+});
+
+
+glift.create({
+divId: 'p2',
+sgf: 'sgfs/leesedol_alphago/20160310_ag_ls_2.sgf',
 display: {
 	drawBoardCoords: true
 }
