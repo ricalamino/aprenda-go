@@ -12,6 +12,10 @@
 		
 		<h1>Aprenda a Jogar Go Interativamente</h1>
 
+		<h2>Lee Sedol (9p) (pretas) vs <figure class="logo-dm" style="width: 30px;height: 30px;"></figure>AlphaGo (brancas) - (Jogo #3 - 12/03/2016)</h2>
+
+		<div id="p3" style="height:500px; width:100%; position:relative;"></div>
+
 		<h2><figure class="logo-dm" style="width: 30px;height: 30px;"></figure>AlphaGo (pretas) vs Lee Sedol (9p) (brancas) - (Jogo #2 - 10/03/2016)</h2>
 
 		<div id="p2" style="height:500px; width:100%; position:relative;"></div>
@@ -21,6 +25,8 @@
 
 
 		<div id="p1" style="height:500px; width:100%; position:relative;"></div>
+
+		<p>Se quiser baixar essas partidas em formato SGF, entre em <a href="http://go.alamino.net/playgoto/sgfs/leesedol_alphago">http://go.alamino.net/playgoto/sgfs/leesedol_alphago</a>.
 
 		<p>No Youtube acesse: <a href="https://www.youtube.com/channel/UCP7jMXSY2xbc3KCAE0MHQ-A">Canal do Google Deepmind</a></p>
 
@@ -209,6 +215,14 @@ display: {
 glift.create({
 divId: 'p2',
 sgf: 'sgfs/leesedol_alphago/20160310_ag_ls_2.sgf',
+display: {
+	drawBoardCoords: true
+}
+});
+
+glift.create({
+divId: 'p3',
+sgf: 'sgfs/leesedol_alphago/20160312_ls_ag_3.sgf',
 display: {
 	drawBoardCoords: true
 }
