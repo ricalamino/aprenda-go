@@ -1,0 +1,92 @@
+<html>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <script src="AC_RunActiveContent.js" type="text/javascript"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.0/jquery.min.js"></script>
+    <script src="glift_new.min.js" ></script>
+
+    <link rel=stylesheet href="style.css" type="text/css">
+    <title>Problemas de 43 Kyu</title>
+  </head>
+<body>
+<h2>Problemas de 43 Kyu</h2>
+<h3>Semeai(Ataque mútuo)</h3>
+<hr>
+É a vez das pretas. Dois grupos se cercando. <br>
+Ou as 3 pretas ou as 3 brancas irão triunfar.
+<p>
+ 
+    <div id="p43_1" style="height:500px; width:100%; position:relative;"></div>
+<p> Como acima, quando brancas e pretas se cercam e nenhum dos grupos têm 2 olhos, 
+  ambos os lados tentam preencher os espaços vagos, ou <b>liberdades</b>, 
+  para matar as pedras do adversário. <br>
+  Essa situação é chamada de "<b>Semeai</b>" - ataque mútuo. 
+<p> No porblema acima, ambos os lados têm 3 liberdades. Entretanto, as pretas podem matar 
+  as brancas uma jogada antes pois era a vez das pretas jogarem. <br>
+  Se fosse a vez das brancas, elas ganhariam o Semeai. 
+<hr>
+As pretas podem vencer o Semeai.
+<p>
+  
+    <div id="p43_2" style="height:500px; width:100%; position:relative;"></div>
+<p>
+<hr>
+Salve as três pedras pretas deixadas sozinhas no canto!<p>
+  
+    <div id="p43_3" style="height:500px; width:100%; position:relative;"></div>
+<p>
+<hr>
+<a href="P42K.html"><img src="images/next.gif" border="0">Próximo</a>
+<a href="index.html"><img src="images/toc.gif" border="0">Conteúdo</a>
+<script type="text/javascript">
+      _uacct = "UA-870456-2";
+      urchinTracker();
+    </script>
+
+    <script type="text/javascript">
+  $(document).ready(function(){ 
+
+
+glift.create({
+divId: 'p43_1',
+sgf: 'sgfs/p43_1.sgf',
+sgfDefaults: {
+    widgetType: 'STANDARD_PROBLEM'
+  },
+});
+
+glift.create({
+divId: 'p43_2',
+sgf: 'sgfs/p43_2.sgf',
+sgfDefaults: {
+    widgetType: 'STANDARD_PROBLEM'
+  },
+});
+
+glift.create({
+divId: 'p43_3',
+sgf: 'sgfs/p43_3.sgf',
+sgfDefaults: {
+    widgetType: 'STANDARD_PROBLEM'
+  },
+});
+
+
+
+  });
+
+    </script>
+    <script type="text/javascript">
+var _urq = _urq || [];
+_urq.push(['initSite', '8dfa982d-d6e9-44a4-a4c2-1c555f1591a2']);
+(function() {
+var ur = document.createElement('script'); ur.type = 'text/javascript'; ur.async = true;
+ur.src = ('https:' == document.location.protocol ? 'https://cdn.userreport.com/userreport.js' : 'http://cdn.userreport.com/userreport.js');
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ur, s);
+})();
+</script>
+  
+</body>
+</html>
