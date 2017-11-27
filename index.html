@@ -2,6 +2,8 @@
 	<head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.0/jquery.min.js"></script>
+<script src="glift_1_0_6.min.js" ></script>
 <script src="AC_RunActiveContent.js" type="text/javascript"></script>
 		<link rel=stylesheet href="style.css" type="text/css">
 		<title>Aprenda a Jogar Go Interativamente (The Interactive Way To Go)</title>
@@ -9,6 +11,17 @@
 	<body>
 		
 		<h1>Aprenda a Jogar Go Interativamente</h1>
+
+		<h2>Rolou o desafio Ke Jie (9p) x <figure class="logo-dm" style="width: 20px;height: 20px;"></figure>AlphaGo!</h2>
+		<p><figure class="logo-dm" style="width: 15px;height: 15px;"></figure> <a href="kejie_alphago.htm">Clique aqui para ver as partidas já disputadas entre Ke Jie e AlphaGo</a> - (Maio de 2017)</p>
+
+
+<h2>Partidas passadas do <figure class="logo-dm" style="width: 20px;height: 20px;"></figure>AlphaGo:</h2>
+		
+			<p><figure class="logo-dm" style="width: 15px;height: 15px;"></figure> <a href="leesedol_alphago.htm">Clique aqui para ver as partidas entre Lee Sedol e AlphaGo</a> - (Março de 2016)</p>
+			<p><figure class="logo-dm" style="width: 15px;height: 15px;"></figure> <a href="fanhui_alphago.htm">Clique aqui para ver as partidas entre Fan Hui e AlphaGo</a> - (Outubro de 2015)</p>
+
+
 		<h2>Regras básicas e como capturar pedras</h2>
 		<ul>
 			<li><a href="welcome.html" >Introdução</a></li>
@@ -52,13 +65,9 @@
 		<p>Copyright 1997-1999, <a href="mailto:mori@playgo.to">Hiroki Mori</a></p>
 		<p>Traduzido por <a href="mailto:alamino@alamino.net">Ricardo Alamino</a></p>
 
-		<h2>Download</h2>
-		<p>Se você quiser dar um download desse tutorial <a href="http://playgo.to/doc/interactive-way-to-go.zip">clique aqui</a>
-			e pegue-o.
-		Versões em Inglês, Francês, Italiano, Alemão, Holandês entre outras.</p>
+		
 
-		<h2>No Github</h2>
-		<p><strong>Se é desenvolvedor e deseja contribuir</strong>, melhorando nosso tutorial, os arquivos estão abertos e disponíveis no Github em <a href="https://github.com/ricalamino/aprenda-go">https://github.com/ricalamino/aprenda-go</a>.</p>
+		
 		<h2>Versões em outras línguas</h2>
 		<ul>
 			<li>
@@ -172,5 +181,58 @@ ur.src = ('https:' == document.location.protocol ? 'https://cdn.userreport.com/u
 var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ur, s);
 })();
 </script>
+
+<script type="text/javascript">
+  $(document).ready(function(){ 
+
+
+glift.create({
+divId: 'p1',
+sgf: 'sgfs/leesedol_alphago/20160309_ls_ag_1.sgf',
+display: {
+	drawBoardCoords: true
+}
+});
+
+
+glift.create({
+divId: 'p2',
+sgf: 'sgfs/leesedol_alphago/20160310_ag_ls_2.sgf',
+display: {
+	drawBoardCoords: true
+}
+});
+
+glift.create({
+divId: 'p3',
+sgf: 'sgfs/leesedol_alphago/20160312_ls_ag_3.sgf',
+display: {
+	drawBoardCoords: true
+}
+});
+
+glift.create({
+divId: 'p4',
+sgf: 'sgfs/leesedol_alphago/20160313_ag_ls_4.sgf',
+display: {
+	drawBoardCoords: true
+}
+});
+
+
+glift.create({
+divId: 'p5',
+sgf: 'sgfs/leesedol_alphago/20160315_ls_ag_5.sgf',
+display: {
+	drawBoardCoords: true
+}
+});
+
+
+
+
+  });
+
+    </script>
 </body>
 </html>
