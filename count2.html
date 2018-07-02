@@ -39,11 +39,13 @@ google_color_url = "ffffff";
 		<p><em>Você pode ver por quê?</em></p>
 		<a href="cut.html"><img src="images/next.gif">Próximo</a>
 		<a href="index.html"><img src="images/toc.gif">Conteúdo</a>
-		<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
-		</script>
-		<script type="text/javascript">
-			_uacct = "UA-870456-2";
-			urchinTracker();
+		<script async src="https://www.googletagmanager.com/gtag/js?id=UA-870456-2"></script>
+		<script>
+			window.dataLayer = window.dataLayer || [];
+			function gtag(){dataLayer.push(arguments);}
+			gtag('js', new Date());
+		
+			gtag('config', 'UA-870456-2');
 		</script>
 		<script type="text/javascript">
 var _urq = _urq || [];
