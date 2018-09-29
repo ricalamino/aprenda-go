@@ -4,6 +4,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <script src="AC_RunActiveContent.js" type="text/javascript"></script>
 		<link rel=stylesheet href="style.css" type="text/css">
+		<link rel="stylesheet" href="go-bootstrap.css">
 		<title>Movimentos Ilegais</title>
 	</head>
 	<body>
@@ -11,17 +12,52 @@
 		<h1>Movimentos Ilegais</h1>
 		<p>Você pode jogar em quase todos os lugares do tabuleiro.</p>
 		<p>Entretanto, há alguns lugares onde as regras impedem a jogada. </p>
+
+		<div class="board-default board-9">
+			<div class="piece piece-white row-5 col-d"></div>
+			<div class="piece piece-white row-4 col-e"></div>
+			<div class="piece piece-white row-5 col-f"></div>
+			<div class="piece letter row-5 col-e"><p>A</p></div>
+			<div class="piece piece-white row-6 col-e"></div>
+			<!-- Put all pieces here -->
+		</div>
  
-		<img src="images/illegal.gif" alt="">
+	
 		<p> Pretas não podem fazer um movimento para A. (Brancas podem.) </p>
 		<p> Pois, se as pretas jogarem lá, aquela pedra já estaria cercada.</p>
 		<p> Suicídio não é permitido no Go.</p>
-		<img src="images/illegal2.gif" alt="" />
+
+		<div class="board-default board-9">
+			<div class="piece piece-white row-5 col-d"></div>
+			<div class="piece piece-white row-4 col-e"></div>
+			<div class="piece piece-white row-5 col-f"></div>
+			<div class="piece letter row-5 col-e"><p>B</p></div>
+			<div class="piece piece-white row-6 col-e"></div>
+			<div class="piece piece-black row-6 col-f"></div>
+			<div class="piece piece-black row-5 col-g"></div>
+			<div class="piece piece-black row-4 col-f"></div>
+			<div class="piece piece-black row-3 col-e"></div>
+			<div class="piece piece-black row-4 col-d"></div>
+			<!-- Put all pieces here -->
+		</div>
+
 		<p>Entretanto, pretas podem jogar em B.</p>
 		<p>Com uma pedra preta em B, as duas pedras brancas seriam cercadas e capturadas. (Veja a figura abaixo.)
 		</p>
-		<img src="images/illegal3.gif" alt="" />
-      <p></p>
+
+		<div class="board-default board-9">
+			<div class="piece piece-white row-5 col-d"></div>
+			<div class="piece piece-black row-5 col-e"></div>
+			<div class="piece piece-white row-6 col-e"></div>
+			<div class="piece piece-black row-6 col-f"></div>
+			<div class="piece piece-black row-5 col-g"></div>
+			<div class="piece piece-black row-4 col-f"></div>
+			<div class="piece piece-black row-3 col-e"></div>
+			<div class="piece piece-black row-4 col-d"></div>
+			<!-- Put all pieces here -->
+		</div>
+
+    <p></p>
 		<a href="P46K.html"><img src="images/next.gif">Próximo</a>
 		<a href="index.html"><img src="images/toc.gif">Conteúdo</a>
 		<script async src="https://www.googletagmanager.com/gtag/js?id=UA-870456-2"></script>
