@@ -230,7 +230,7 @@
   background-image: linear-gradient(black 0.1em, transparent 0), linear-gradient(90deg, black 0.1em, transparent 0), radial-gradient(#000000 0.3em, rgba(0, 0, 0, 0) 0%);
   border-color: burlywood;
   box-shadow: 0 5px 10px rgba(0, 0, 0, 0.7);
-  margin: 0 auto;
+  margin: 0;
 }
 
 .board-coordinates {
