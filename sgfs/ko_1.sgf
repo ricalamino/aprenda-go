@@ -4,7 +4,10 @@ PW[Branco]PB[Negro]
 
 AW[fc][ed][gd][fe]
 
-AB[ec][dd][ee]C[Jogue livremente.]
+AB[ec][dd][ee]C[Jogue para matar.]
 (;B[fd]
 C[Muito bem!
-Correto]))
+Correto])
+(;W[ed]
+C[Ko])
+)
