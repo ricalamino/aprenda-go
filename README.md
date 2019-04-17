@@ -1,4 +1,9 @@
-# aprenda-go
+# aprenda-go *(descontinuado)*
+
+A nova versão desse site está em [Baduk.com.br](https://baduk.com.br)
+
+----
+
 Aprenda a Jogar Go Interativamente.
 
 Tradução do site original playgoto.to que ensina a jogar Go a partir de exercícios interativos, inicialmente em Java, depois em flash, e, atualmente, estou passando para Javascript. 
