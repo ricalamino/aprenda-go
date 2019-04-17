@@ -2,6 +2,8 @@
 
 A nova versão desse site está em [Baduk.com.br](https://baduk.com.br)
 
+No Github: [Baduk.com.br no Github](https://github.com/ricalamino/baduk.com.br)
+
 ----
 
 Aprenda a Jogar Go Interativamente.
